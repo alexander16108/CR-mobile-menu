@@ -31,14 +31,6 @@ body {
   color: white;
 }
 
-.menu {
-  position: relative;
-  display: none;
-  justify-content: space-between;
-  align-content: center;
-  height: 100vh;
-}
-
 #mobile {
   background-color: #000;
 }
