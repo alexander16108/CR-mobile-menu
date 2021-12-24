@@ -39,7 +39,7 @@ Run `npx stylelint "**/*.{css,scss}"` to test for css linting check
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/alexander16108/CR-mobile-menu/issues).
 
 ## Show your support
 
