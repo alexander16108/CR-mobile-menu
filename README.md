@@ -12,8 +12,8 @@ This is code review practice project.
 - HTML
 - CSS
 
-## Live versiion
-
+## Live version
+[live version](https://alexander16108.github.io/CR-mobile-menu/https://alexander16108.github.io/CR-mobile-menu/)
 ## Getting Started
 
 
