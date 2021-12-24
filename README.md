@@ -19,7 +19,7 @@ This is code review practice project.
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with `gh repo clone alexander16108/CR-mobile-menu`
+Clone the repo with `https://github.com/alexander16108/CR-mobile-menu.git`
 
 Run `npm install` from the command line
 
