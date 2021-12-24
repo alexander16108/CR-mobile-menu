@@ -13,7 +13,7 @@ This is code review practice project.
 - CSS
 
 ## Live version
-[live version](https://alexander16108.github.io/CR-mobile-menu/https://alexander16108.github.io/CR-mobile-menu/)
+[live version](https://alexander16108.github.io/CR-mobile-menu/)
 ## Getting Started
 
 
